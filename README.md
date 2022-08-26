@@ -6,4 +6,4 @@ I'm learning Rust (the programming language, not the game), and I used to play M
 
 My pronouns are **she/her**, and I'm a trans lesbian girl.
 
-idk what else to put here lmao
+I used to work on a Discord bot (which I called Rain), but at some point I just sorta gave up on that.
